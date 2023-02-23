@@ -23,4 +23,6 @@ $ java -jar target/calculadora-0.0.1-SNAPSHOT.jar
 # uri path to get sum
 > http://localhost:8080/sum/{param1}/{param2}
 
-### Param1
+## Example
+> http://localhost:8080/sum/1/2
+
