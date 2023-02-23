@@ -15,7 +15,7 @@
 	<description>Calculadora API</description>
 	<properties>
 		<java.version>17</java.version>
-		<calculator.version>1.0.0</calculator.version>
+		<tracer.version>1.0.0</tracer.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -36,9 +36,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>io.corp</groupId>
-			<artifactId>calculator</artifactId>
-			<version>${calculator.version}</version>
+			<groupId>io.corp.calculator</groupId>
+			<artifactId>tracer</artifactId>
+			<version>${tracer.version}</version>
 		</dependency>
 
 	</dependencies>
